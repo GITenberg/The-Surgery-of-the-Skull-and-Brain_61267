@@ -1,0 +1,25 @@
+_repo: The-Surgery-of-the-Skull-and-Brain_61267
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rawling, Louis Bathe
+    alias: Rawling, L. Bathe (Louis Bathe)
+    gutenberg_agent_id: '51331'
+    url: http://www.gutenberg.org/2009/agents/51331
+description: ''
+gutenberg_issued: '2020-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Oxford medical publications
+subjects:
+- !lcc 'RD'
+- !lcsh 'Skull -- Surgery'
+- !lcsh 'Brain -- Surgery'
+- GITenberg
+title: The Surgery of the Skull and Brain
+url: http://www.gutenberg.org/ebooks/61267
